@@ -1,2 +1,2 @@
 # College-work-DSA
-Assignments of college DSA
+This is repository where I update and solve my ongoing college assignments.
